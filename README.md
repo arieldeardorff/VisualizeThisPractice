@@ -1,2 +1,2 @@
 # VisualizeThisPractice
-Practice Scripts from "Visualize This" by Nathan Yau
+Practice Scripts inspired by "Visualize This" by Nathan Yau
